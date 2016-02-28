@@ -45,8 +45,7 @@ class Dispatcher
         // クラスインスタンス生成
         $controllerInstance = new $className($url);
          // 2番目のパラメーターをコントローラーとして取得
-         $action= 'home';
-        var_dump($action);
+         $action= 'index';
 
          if ( ($this->paramLevel + 1) < count($params)) {
          $action= $params[($this->paramLevel + 1)];
