@@ -1,0 +1,19 @@
+{
+    "database" :
+    {
+        "dbhosts":
+        {
+            "A" :
+            {
+                "hostname" : "localhost",
+                "dbname"   : "sumple",
+                "dbuser"   : "root",
+                "dbpass"   : ""
+            }
+        },
+        "tables" :
+        {
+            "user_data" : "A"
+        }
+    }
+}
