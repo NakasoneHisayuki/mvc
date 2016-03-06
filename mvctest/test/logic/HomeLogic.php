@@ -11,8 +11,8 @@ class IndexLogic{
     }
 
     public function test(){
-        $get = $this->hoge_model->getTest();
-        return $get;
+//        $get = $this->hoge_model->getTest();
+//        return $get;
     }
 
 }

@@ -8,7 +8,7 @@
                 "hostname" : "localhost",
                 "dbname"   : "sumple",
                 "dbuser"   : "root",
-                "dbpass"   : ""
+                "dbpass"   : "root"
             }
         },
         "tables" :
